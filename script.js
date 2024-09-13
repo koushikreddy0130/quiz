@@ -178,4 +178,3 @@ nextBtn.addEventListener('click', () => {
         checkAnswer();
     }
 });
-
