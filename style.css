@@ -8,7 +8,7 @@
 body {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(to right bottom, #2683ad, #1111a9);
+    background: linear-gradient(to right bottom, #ECDFCC, #697565);
     color: #000000;
     display: grid;
     place-items: center;
